@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etragardh&label=Profile%20views&color=0e75b6&style=flat" alt="etragardh" /> </p>
 
-- 🔭 I’m currently working on HackWP cli tool [hackwp](https://github.com/etragardh/hackwp)
+- 🔭 I’m currently working on HackWP cli tool [hackwp](https://github.com/etragardh/hackwp) (will release under GPL v3 in the near future)
+[HackWP on Youtube](https://youtu.be/K-n-q921Hm4)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/etragardh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="etragardh" /></a></p><br><br>
