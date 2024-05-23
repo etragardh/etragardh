@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etragardh&label=Profile%20views&color=0e75b6&style=flat" alt="etragardh" /> </p>
 
-- 🔭 I’m currently working on HackWP cli tool [hackwp](https://github.com/etragardh/hackwp) (will release under GPL v3 in the near future)
+- 🔭 I’m currently working on HackWP cli tool [hackwp](https://github.com/etragardh/hackwp)
 [HackWP on Youtube](https://youtu.be/K-n-q921Hm4)
 
 <h3 align="left">Support:</h3>
